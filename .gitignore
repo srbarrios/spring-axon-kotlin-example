@@ -1,0 +1,17 @@
+*#
+*.iml
+*.ipr
+*.iws
+*.jar
+*.sw?
+*~
+.#*
+.*.md.html
+.DS_Store
+.classpath
+.gradle
+.idea
+gradle
+build
+build.log
+out
